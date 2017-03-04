@@ -1,7 +1,7 @@
 {
   "name": "amcharts",
   "version": "3.20.20",
-  "description": "http://amcharts.com",
+  "description": "A go-to library for data visualization. When you don’t have time to learn new technologies. When you need a simple yet powerful and flexible drop-in data visualization solution.",
   "main": "amcharts.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,9 +13,12 @@
   "author": {
     "name": "amCharts"
   },
+  "keywords":[
+    "charts", "javascript", "library", "data visualization"
+  ],
   "license": "http://www.amcharts.com/online-store/licenses-explained/",
   "bugs": {
-    "url": "https://github.com/bequadrat/amcharts/issues"
+    "url": "https://github.com/trfiladelfo/amcharts/issues"
   },
   "homepage": "https://amcharts.com"
 }
