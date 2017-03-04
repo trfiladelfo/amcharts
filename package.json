@@ -2,7 +2,6 @@
   "name": "amcharts",
   "version": "3.20.20",
   "description": "A go-to library for data visualization. When you don’t have time to learn new technologies. When you need a simple yet powerful and flexible drop-in data visualization solution.",
-  "main": "amcharts.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
